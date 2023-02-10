@@ -6,19 +6,19 @@ export const data = [
         result: "Porque es un ejemplo",
     },
     {
-        question:"Escoge una respuesta dentro de las opciones 1",
+        question:"Escoge una respuesta dentro de las opciones 2",
         choises: ["Opcion A", "Opcion B", "Opcion C", "Opcion D"],
         answer: "Opcion B",
         result: "Porque es un ejemplo",
     },
     {
-        question:"Escoge una respuesta dentro de las opciones 1",
+        question:"Escoge una respuesta dentro de las opciones 3",
         choises: ["Opcion A", "Opcion B", "Opcion C", "Opcion D"],
         answer: "Opcion C",
         result: "Porque es un ejemplo",
     },
     {
-        question:"Escoge una respuesta dentro de las opciones 1",
+        question:"Escoge una respuesta dentro de las opciones 4",
         choises: ["Opcion A", "Opcion B", "Opcion C", "Opcion D"],
         answer: "Opcion D",
         result: "Porque es un ejemplo",

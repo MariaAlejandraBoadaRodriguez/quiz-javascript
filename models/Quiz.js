@@ -31,7 +31,7 @@ export class Quiz{
      * @param {string} answer Some text
      */
     guess(answer){
-
+        console.log(answer)
         if(this.getQuestionIndex().correctAnswer(answer)){
             this.score++
         }
