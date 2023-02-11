@@ -18,8 +18,7 @@ const renderPage = (quiz, ui) => {
         ui.showChoices(quiz.getQuestionIndex().choises, (currentChoice) =>{
         quiz.guess(currentChoice);
         renderPage(quiz, ui)
-        
-        ui.showProgess(quiz.questionIndex, quiz.questions.length);
+        ui.showProgess(quiz.questionIndex + 1, quiz.questions.length);
     });
     }
 }
