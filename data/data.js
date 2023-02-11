@@ -82,7 +82,7 @@ export const data = [
     {
         question:"El modelo integrado de planeación y gestión MIPG, es un marco de referencia para dirigir, planear, ejecutar, hacer seguimiento, evaluar y controlar la gestión de las entidades y organismos públicos, con el fin de:",
         choises: [
-            "Generar resultados que atiendan los planes de inversión y resuelvan las necesidades y problemas de las organizaciones, con calidad y eficiencia en el servicio", 
+            "Establecer resultados que atiendan los planes de inversión y resuelvan las necesidades y problemas de las organizaciones, con calidad y eficiencia en el servicio", 
             "Generar resultados que atiendan los planes de desarrollo y resuelvan las necesidades y problemas de los ciudadanos, con integridad y calidad en el servicio", 
             "Incrementar la productividad de los procesos y resolver las necesidades y problemas de las no conformidades, con respeto y calidad en el servicio", 
             "Incrementar la cobertura de servicios y aumento de la satisfacción en el servicio"],
